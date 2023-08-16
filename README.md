@@ -1,17 +1,18 @@
 ## Hi there! ✊
 
-My name is Arthur Ferreira, student of Computer Networks at Alcides Maya, Brazil. Currently in the 4th module, just missing to graduate. 
+My name is Arthur Ferreira, FullStack development from Brazil.
 
 ### Interests 👓
 
-I am dedicating myself to Front-End Development, but I aim to become a FullStack Developer.
-I have knowledge of HTML5, CSS3 and JavaScript. I'm improving my JavaScript knowledge to start learning React or Vue.
+I have previously worked as an IT Assistant, honing my skills in configuring, maintaining and managing information systems.
+I recently transitioned my career to FullStack development and have been freelancing for the past 7 months. 
+My specialties include React, HTML, CSS, Sass, JavaScript (ES+), NodeJS and Bootstrap.
 
-Front-End | Back-End | Fullstack | Dev Mobile
+Front-End | Back-End | Fullstack
 
 Technologies:
 
-HTML | CSS | JavaScript | React | Node | React Native
+HTML | CSS | JavaScript | React | Node
 
 ### Skills 🧰
 

@@ -7,8 +7,6 @@ My name is Arthur Ferreira, a FullStack developer from Brazil.
 
 I am a professional who is passionate about technology, committed to continuous learning and motivated to take on innovative challenges. I am prepared to contribute significantly to projects that require web development experience and Full Stack skills while continuing to expand my skill set to tackle new technological horizons.
 
-My specialities include HTML, CSS, Sass, Less, JavaScript (ES+), NodeJS, Express and Bootstrap.
-
 Fullstack | Front-End | Back-End
 
 
